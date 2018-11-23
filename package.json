@@ -2,7 +2,7 @@
   "name": "polymer-3-first-element",
   "version": "3.0.0-pre.12",
   "flat": true,
-  "description": "Build your first element with Polymer 3.0!",
+  "description": "Simple icon web component",
   "main": "index.html",
   "dependencies": {
     "@polymer/iron-icon": "^3.0.0-pre.12",
